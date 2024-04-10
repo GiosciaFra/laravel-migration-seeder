@@ -1,5 +1,9 @@
 @extends('layout/app')
 
 @section('content')
-contenuto page
+<div class="container p-5 ">
+
+    <h1 class="text-warning text-center ">Lista Treni</h1>
+    
+</div>
 @endsection
